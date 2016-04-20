@@ -9,5 +9,5 @@ main()
 	do{
 printf("ingrese un numero 2");
 scanf("%d",f);
-	}while (f==2)
+	}while (f=!2)
 }
